@@ -1,0 +1,52 @@
+
+library(dplyr)
+
+weekcode = read.csv("C:/Users/Lijh/Desktop/statistics/project/data/week_code.csv")
+
+newwfdata = read.csv("C:/Users/Lijh/Desktop/statistics/project/data/csv/new_wf.csv")
+
+newwfdata$judge = 0
+
+i = 1
+j = 1
+m = 1
+n = 1
+## i,m = row numbers in the two datasets
+## j = column number in the weekcode dataset
+for (m in 1:20130) {
+  if (is.na(newwfdata$city_code[m])) {
+    next
+  }
+  for (i in 1:95) {
+    if (newwfdata$city_code[m] == weekcode$City_code[i]) {
+
+      for (j in 2:10) {
+        if (newwfdata$daynum[m] == weekcode[i, j]) {
+
+          newwfdata$judge[m] = 1
+        }
+        
+        
+      }
+    }
+  }
+}
+
+weekdata <- subset(newwfdata, judge != 0)
+
+
+ write.table(
+  weekdata,
+  "weakdata.csv",
+  row.names = FALSE,
+  col.names = TRUE,
+  sep = ","
+ )
+# each_city = split(newwfdata, newwfdata$city_code)
+# sapply(each_city, each_city$treat == 1)
+
+didreg_week = lm(
+  aqi ~ treat + temp + temp_2 + prec
+  + snow + as.factor(city_code) + as.factor(daynum) + as.factor(),
+  data = newwfdata
+)
