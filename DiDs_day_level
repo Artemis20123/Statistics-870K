@@ -1,0 +1,31 @@
+library(dplyr)
+
+wfdata = read.csv("C:/Users/Lijh/Desktop/statistics/project/data/csv/wf.csv")
+
+newwfdata <- subset(wfdata, daynum >= 8401 & daynum <= 8461)
+
+temp_2 = newwfdata$temp * newwfdata$temp
+
+
+# without fes
+didreg = lm(aqi ~ treat, data = newwfdata)
+summary(didreg)
+
+# without fe and with single t
+# Note that this fomula is not valid here, because the N/A values exist
+# didreg_t = lm(aqi ~ treat + t_asign, data = newwfdata)
+# summary(didreg_t)
+
+# with country fe
+didreg_unit_fe = lm(aqi ~ treat + as.factor(city_code), data = newwfdata)
+summary(didreg_unit_fe)
+
+# with country and year fe
+didreg_two_way = lm(aqi ~ treat + as.factor(city_code) + as.factor(daynum), data = newwfdata)
+summary(didreg_two_way)
+
+# with other fes indicated by the article
+didreg_fes = lm(aqi ~ treat + temp + temp_2 + prec
+                + snow + as.factor(city_code) + as.factor(daynum),
+                data = newwfdata)
+summary(didreg_fes)
