@@ -1,0 +1,331 @@
+﻿city_code,city,province_code,province
+2414,Harbin,230,Heilongjiang
+3547,Benxi,210,Liaoning
+4870,Wuhu,340,Anhui
+4956,Fuyang,340,Anhui
+5993,Chongqing,500,Chongqing
+5996,Maanshan,340,Anhui
+6124,Tianjin,120,Tianjin
+6145,Chengde,130,Hebei
+6270,Mianyang,510,Sichuan
+7765,Ordos,150,Inner Mogolia
+8027,Ankang,610,Shaanxi
+8131,Chaoyang,210,Liaoning
+8615,Xinzhou,140,Shanxi
+8775,Weihai,370,Shandong
+9121,Baoshan,530,Yunnan
+9715,Tieling,210,Liaoning
+11242,Wuhai,150,Inner Mogolia
+11788,Shigatse,540,Tibet
+11975,Putian,350,Fujian
+12143,Jiuquan,620,Gansu
+12834,Qiqihar,230,Heilongjiang
+13457,Huangshan,340,Anhui
+14042,Yichun,360,Jiangxi
+14287,Chizhou,340,Anhui
+14333,Changzhou,320,Jiangsu
+14529,Jincheng,140,Shanxi
+14781,Jiamusi,230,Heilongjiang
+14784,Bazhong,510,Sichuan
+14861,Wenshan Zhuang and Miao Autonomous Prefecture,530,Yunnan
+14883,Xilingol League,150,Inner Mongolia
+15195,Jining,370,Shandong
+15785,Chuxiong Yi Autonomous Prefecture,530,Yunnan
+15842,Fushun,210,Liaoning
+16078,Altay Prefecture,650,Xinjiang
+16114,Jilin,220,Jilin
+16213,Longyan,350,Fujian
+16523,Chifeng,150,Inner Mongolia
+16871,Jinmen,420,Hubei
+17115,Siping,220,Jilin
+17301,Zhangzhou,350,Fujian
+17450,Jiujiang,360,Jiangxi
+17564,Shangqiu,410,Henan
+17604,Urumqi,650,Xinjiang
+17881,Yibin,510,Sichuan
+18375,Chenzhou,430,Hunan
+18404,Jian,360,Jiangxi
+18469,Golog Tibetan Autonomous Prefecture,630,Qinhai
+18799,Yushu Tibetan Autonomous Prefecture,630,Qinhai
+19482,Yichang,420,Hubei
+19658,Zhaoqing,440,Guangdong
+19673,Qingyuan,440,Guangdong
+19948,Zhengzhou,410,Henan
+20402,Anshun,520,Guizhou
+20585,Tangshan,130,Hebei
+20846,Zhangye,620,Gansu
+21133,Panzhihua,510,Sichuan
+21172,Pingliang,620,Gansu
+21285,Kunming,530,Yunnan
+21740,Taizhou,330,Zhejiang
+22044,Guilin,450,Guangxi
+22294,Yangquan,140,Shanxi
+22894,Zibo,370,Shandong
+23204,Shihezi,650,Xinjiang
+23205,Wenzhou,330,Zhejiang
+23335,Liupanshui,520,Guizhou
+23427,Huainan,340,Anhui
+24371,Shangluo,610,Shaanxi
+25564,Nanning,450,Guangxi
+27494,Bangbu,340,Anhui
+27725,Xuchang,410,Henan
+27952,Bortala Mongol Autonomous Prefecture,650,Xinjiang
+28458,Nagqu,540,Tibet
+28474,Quzhou,330,Zhejiang
+28607,Diqing Tibetan Autonomous Prefecture,530,Yunnan
+28760,Xiamen,350,Fujian
+29050,Dehong Dai and Jingpo Autonomous Prefecture,530,Yunnan
+29140,Qianxinan Buyei and Miao Autonomous Prefecture,520,Guizhou
+29636,Xi'an,610,Shaanxi
+29745,Hebi,410,Henan
+29810,Yuxi,530,Yunnan
+30128,Guiyang,520,Guizhou
+30179,Tonghua,220,Jilin
+30343,Yingtan,360,Jiangxi
+30831,Shizuishan,640,Ningxia
+31041,Bayannur,150,Inner Mongolia
+31438,Shantou,440,Guangdong
+31957,Zhuhai,440,Guangdong
+32030,Guyuan,640,Ningxia
+32077,Dandong,210,Liaoning
+32247,Nanping,350,Fujian
+32542,Liuzhou,450,Guangxi
+33465,Linyi,370,Shandong
+33655,Hangzhou,330,Zhejiang
+34714,Songyuan,220,Jilin
+35014,Laiwu,370,Shandong
+35583,Shiyan,420,Hubei
+35817,Sanya,460,Hainan
+35941,Shaoyang,430,Hunan
+36093,Guangzhou,440,Guangdong
+36379,Yangjiang,440,Guangdong
+36764,Jingzhou,420,Hubei
+37206,Anshan,210,Liaoning
+37241,Lanzhou,620,Gansu
+38294,Jinchang,620,Gansu
+38358,Yanbian Korean Autonomous Prefecture,220,Jilin
+39012,Qingdao,370,Shandong
+39466,Suizhou,420,Hubei
+39715,Jiangmen,440,Guangdong
+39753,Cangzhou,130,Hebei
+39902,Yingkou,210,Liaoning
+39954,Jiaozuo,410,Henan
+39975,Xuzhou,320,Jiangxu
+40332,Lishui,330,Zhejiang
+40732,Shenyang,210,Liaoning
+41112,Xining,630,Qinghai
+41327,Shuangyashan,230,Heilongjiang
+41887,Fuxin,210,Liaoning
+41928,Qinhuangdao,130,Hebei
+41982,Wuzhong,640,Ningxia
+42055,Liaocheng,370,Shandong
+42337,Xianyang,610,Shaanxi
+42440,Yiyang,430,Hunan
+44447,Pingdingshan,410,Henan
+44511,Zhanjiang,440,Guangdong
+44572,Changji Hui Autonomous Prefecture,650,Xinjiang
+44687,Panjin,210,Liaoning
+44739,E'zhou,420,Hubei
+44779,Deyang,510,Sichuan
+44913,Zhaotong,530,Yunnan
+44998,Nanjing,320,Jiangsu
+45073,Beihai,450,Guangxi
+45344,Suihua,230,Heilongjiang
+45700,Yuncheng,140,Shanxi
+45983,Suqian,320,Jiangsu
+47088,Xiangyang,420,Hubei
+47115,Hohhot,150,Inner Mogonlia
+47326,Hechi,450,Guangxi
+48418,Shaoxing,330,Zhejiang
+48854,Meishan,410,Sichuan
+49434,Yulin,450,Guangxi
+49563,Shanwei,440,Guangdong
+49590,Pingxiang,360,Jiangxi
+49603,Fuzhou,360,Jiangxi
+49697,Jinhua,330,Zhejiang
+50167,Taiyuan,140,Shanxi
+50602,Luzhou,510,Sichuan
+50965,Xingtai,130,Hebei
+51715,Ulanqab,150,Inner Mongolia
+52323,Puyang,410,Henan
+53199,Xiangxi Tujia and Miao Autonomous Prefecture,430,Hunan
+53348,Zhoukou,410,Henan
+53460,Lhasa,540,Tibet
+53705,Tongren,520,Guizhou
+53747,Shenzhen,440,Guangdong
+54002,Hulunbuir,150,Inner Mongolia
+54217,Zhoushan,330,Zhejiang
+54348,Enshi,420,Hubei
+54613,Beijing,110,Beijing
+54801,Huangnan Tibetan Autonomous Prefecture,630,Qinghai
+55439,Maoming,440,Guangdong
+55521,Wuhan,420,Hubei
+55714,Yinchuan,640,Ningxia
+56781,Jieyang,440,Guangdong
+56806,Neijiang,510,Sichuan
+56990,Qiandongnan Miao and Dong Autonomous Prefecture,520,Guizhou
+57095,Zaozhuang,370,Shandong
+58261,Tongliao,150,Inner Mongolia
+58529,Tianshan,620,Gansu
+58644,Haikou,460,Hainan
+59066,Bijie,520,Guizhou
+59194,Shaoguan,440,Guangdong
+59283,Liaoyang,210,Liaoning
+60010,Huai'an,320,Jiangsu
+60216,Hanzhong,610,Shaanxi
+60294,Jiaxing,330,Zhejiang
+60407,Ningde,350,Fujian
+60474,Yancheng,320,Jiangsu
+60865,Binzhou,370,Shandong
+61499,Baoji,610,Shaanxi
+61872,Haixi Mongol and Tibetan Autonomous Prefecture,630,Qinghai
+61896,Mudanjiang,230,Heilongjiang
+62265,Shangrao,360,Jiangxi
+62661,Huangshi,420,Hubei
+63239,Zunyi,520,Guizhou
+63715,Jixi,230,Heilongjiang
+63742,Zhenjiang,320,Jiangsu
+63964,Xinyang,410,Henan
+63994,Huaibei,340,Anhui
+64206,Heyuan,440,Guangdong
+64423,Dezhou,370,Shandong
+64458,Yangzhou,320,Jiangsu
+64738,Suzhou,320,Jiangsu
+64881,Jingdezhen,360,Jiangxi
+65115,Huizhou,440,Guangdong
+65211,Nanyang,410,Henan
+65987,Qitaihe,230,Heilongjiang
+66112,Yichun,230,Heilongjiang
+66175,Suining,510,Sichuan
+66201,Chaohu,340,Anhui
+66284,Baishan,220,Jilin
+66511,Datong,140,Shanxi
+67034,Linxia Hui Autonomous Prefecture,620,Gansu
+67298,Kizilsu Kyrgyz Autonomous Prefecture,650,Xinjiang
+67679,Haidong,630,Qinghai
+67764,Lu'an,340,Anhui
+67987,Hefei,340,Anhui
+70106,Tacheng,650,Xinjiang
+70160,Pu'er,530,Yunnan
+70316,Heihe,230,Heilongjiang
+70480,Huludao,210,Liaoning
+70802,Ningbo,330,Zhejiang
+70859,Shennongjia,420,Hubei
+71005,Shijiangzhuang,130,Hebei
+71336,Guangyuan,510,Sichuan
+72280,Lianyungang,320,Jiangsu
+72456,Dazhou,510,Sichuan
+73969,Nantong,320,Jiangsu
+75399,Jinzhou,210,Liaoning
+75577,Wuwei,620,Gansu
+75654,Changde,430,Hunan
+75710,Baotou,150,Inner Mongolia
+75741,Baise,450,Guangxi
+75849,Tongchuan,610,Shaanxi
+75906,Zhangjiajie,430,Hunan
+75971,Ngawa Tibetan and Qiang Autonomous Prefecture,510,Sichuan
+76375,Liangshan Yi Autonomous Prefecture,510,Sichuan
+77114,Sanming,350,Fujian
+77119,Hinggan League,150,Inner Mongolia
+77178,Chuzhou,340,Anhui
+77326,Yueyang,430,Hunan
+77331,Langfang,130,Hebei
+78021,Qingyang,620,Gansu
+78395,Jinan,370,Shandong
+78458,Xishuangbanna,530,Yunnan
+78498,Yunfu,440,Guangdong
+78617,Guigang,450,Guangxi
+78793,Lvliang,140,Shanxi
+79412,Baiyin,620,Gansu
+79806,Suzhou,140,Shanxi
+80196,Chengdu,510,Sichuan
+80521,Fuzhou,350,Fujian
+80532,Yan'an,610,Shaanxi
+80814,Taizhou,320,Jiangsu
+80825,Garzê Tibetan Autonomous Prefecture,510,Sichuan
+81018,Hainan Tibetan Autonomous Prefecture,630,Qinghai
+81523,Xiantao,420,Hubei
+81617,Jiayuguan,620,Gansu
+82415,Luoyang,410,Henan
+82758,Fangchenggang,450,Guangxi
+82806,Longnan,620,Gansu
+83287,Nujiang Lisu Autonomous Prefecture,530,Yunnan
+83502,Ili,650,Xinjiang
+83651,Guangan,510,Sichuan
+83989,Bayingolin Mongol Autonomous Prefecture,650,Xinjiang
+83997,Yongzhou,430,Hunan
+84258,Huaihuai,430,Hunan
+84500,Loudi,430,Hunan
+84786,Changsha,430,Hunan
+84797,Ngari Prefecture,540,Tibet
+84914,Foshan,440,Guangdong
+85766,Quanzhou,350,Fujian
+85788,Honghe Hani and Yi Autonomous Prefecture,530,Yunnan
+85807,Yulin,610,Shaanxi
+85903,Changzhi,140,Shanxi
+86011,Lijiang,530,Yunnan
+86253,Huzhou,330,Zhejiang
+86298,Tai'an,370,Shandong
+86808,Anqing,340,Anhui
+87544,Liaoyuan,220,Jilin
+88119,Zigong,510,Sichuan
+88164,Xinyu,360,Jiangxi
+88180,Kashgar Prefecture,650,Xinjiang
+88752,Alxa League,150,Inner Mongolia
+89261,Ganzhou,360,Jiangxi
+90542,Tongling,340,Anhui
+90724,Dalian,210,Liaoning
+90980,Chaozhou,440,Guangdong
+91051,Xianning,420,Hubei
+91232,Weifang,370,Shandong
+91536,Hotan Prefecture,650,Xinjiang
+91749,Nanchang,360,Jiangxi
+91788,Xiangtan,430,Hunan
+92478,Dongguan,440,Guangdong
+92540,Bozhou,340,Anhui
+92619,Aksu Prefecture,650,Xinjiang
+93407,Qinzhou,450,Guangxi
+93580,Handan,130,Hebei
+93779,Wuxi,320,Jiangsu
+93791,Luohe,410,Henan
+93997,Shanghai,310,Shanghai
+94224,Hezhou,450,Guangxi
+94313,Zhangjiakou,130,Hebei
+94702,Hengyang,430,Hunan
+94780,Ziyang,510,Sichuan
+95404,Xinxiang,410,Henan
+95846,Qujing,530,Yunnan
+96057,Dongying,370,Shandong
+97122,Linfen,140,Shanxi
+97330,Hengshui,130,Hebei
+97444,Anyang,410,Henan
+97702,Haibei,630,Qinghai
+97735,Jinzhong,140,Shanxi
+97909,Zhuzhou,430,Hunan
+98240,Baoding,130,Hebei
+98508,Wuzhou,450,Guangxi
+98749,Daqing,230,Heilongjiang
+98859,Zhongshan,440,Guangdong
+98980,Ya'an,510,Sichuan
+99066,Yantai,370,Shandong
+99238,Huanggang,420,Hebei
+99390,Lincang,530,Yunnan
+99633,Sanmenxia,410,Henan
+99826,Leshan,510,Sichuan
+99844,Meizhou,440,Guangdong
+100197,Zhumadian,410,Henan
+100304,Changchun,220,Jilin
+100356,Qiannan Buyei and Miao Autonomous Prefecture,520,Guizhou
+100357,Hegang,230,Heilongjiang
+100430,Xiaogang,420,Hubei
+100451,Xuancheng,340,Anhui
+100608,Baicheng,220,Jilin
+101156,Rizhao,370,Shandong
+101936,Suzhou,340,Anhui
+102295,Heze,370,Shandong
+102298,Dali,530,Yunnan
+102730,Weinan,610,Shanxi
+103238,Kaifeng,410,Henan
+105012,Nanchong,510,Sichuan
+105016,Dingxi,620,Gansu
+105229,Karamay,650,Xinjiang
